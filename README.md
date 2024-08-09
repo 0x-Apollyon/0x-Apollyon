@@ -5,7 +5,9 @@ I and many more people on the interwebs refer to me as "Apollyon".
 
 [09/08/2024 ]I am currently a high school student studying in grade 12th, or in my "senior year" as many of you may call it.
 
-I may also go under multiple other pseudonyms so if you are ever feeling bored you can play a game of "Wheres Apollyon ???"
+I may also go under multiple other pseudonyms so if you are ever feeling bored you can play a game of "Wheres Apollyon ???" <br>
+
+(Regarding incomplete/empty repos, they are most probably still under dev)
 
 Moving on,
 
