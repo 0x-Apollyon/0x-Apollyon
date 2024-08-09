@@ -27,7 +27,8 @@ I also know a thing or two about stuff such as
 Apart from this I am also involved in the field of finance (Semifinalist Wharton Global Highschool Investment Competition) but most of my finance related work is NOT HERE
 
 On this Github account I showcase my work in the fields of CTI, Cryptography, and maybe even some Maldev and Appdev.
-I have other private Github accounts on which I have many other projects. If you are SO interested in getting to know me better, just reach out to me and I will provide you the links to them.
+I have other private Github accounts on which I have many other projects.
+<br> If you are SO interested in getting to know me better, just reach out to me and I will provide you the links to them.
 
 #### Skills
 This covers the tooling im familiar with.
