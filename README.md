@@ -58,7 +58,7 @@ This covers the tooling im familiar with.
 
 - Infosec: Worked with many open source tools and have my own ones aswell. Notable ones include: amass, crtsh, nuclei, nikto, nmap, sqlmap, nosqlmap, xsstrike, dalfox and ghauri <br>
 - WebDev: My primary tech stack is React or Vanilla JS/HTML/CSS for backend, Flask for the serverside runtime and databases such as SQLite, MySQL , Postgres (SQL Dbs) or MongoDB, Redis, Cassandra, Scylla (NoSQL Dbs). Sometimes if I am lazy then Firebase/Supabase forms the entire backend. <br>
-- Reverse Engineering: SonarQUBE for static analysis. <br>
+- Reverse Engineering: SonarQUBE for code analysis. GHIDRA for proper rev eng. <br>
 - Neural Networks: Tensorflow, PyTorch and Keras for the network itself. Pandas and NumPY for the data. <br>
 
 #### Contact Me
