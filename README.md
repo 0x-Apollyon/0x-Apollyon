@@ -3,11 +3,13 @@
 Greetings traveller, welcome to my humble abode.
 I and many more people on the interwebs refer to me as "Apollyon".
 
-[09/08/2024 ]I am currently a high school student studying in grade 12th, or in my "senior year" as many of you may call it.
+[018/10/2024 ]I am currently a high school student studying in grade 12th, or in my "senior year" as many of you may call it.
 
 I may also go under multiple other pseudonyms so if you are ever feeling bored you can play a game of "Wheres Apollyon ???" <br>
 
-(Regarding incomplete/empty repos, they are most probably still under dev)
+(Regarding incomplete/empty repos, they are most probably still under dev) <br>
+This and every time I get a good idea for a project, the first thing I do is draft up a Readme and make a repo which describes how I want the project to end up looking like <br>
+<br>
 
 Moving on,
 
