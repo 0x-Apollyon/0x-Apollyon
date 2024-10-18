@@ -3,7 +3,7 @@
 Greetings traveller, welcome to my humble abode.
 I and many more people on the interwebs refer to me as "Apollyon".
 
-[018/10/2024 ]I am currently a high school student studying in grade 12th, or in my "senior year" as many of you may call it.
+[18/10/2024 ]I am currently a high school student studying in grade 12th, or in my "senior year" as many of you may call it.
 
 I may also go under multiple other pseudonyms so if you are ever feeling bored you can play a game of "Wheres Apollyon ???" <br>
 
