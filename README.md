@@ -1,4 +1,4 @@
-# Greetings to whoever is viewing this profile
+# Greetings to whoever is reading this
 I write code, and I break code.<br>
 I can write code in:
 - Python (my primary language)
